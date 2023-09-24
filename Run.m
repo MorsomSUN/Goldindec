@@ -2,7 +2,7 @@
 %A is a vector with two columns, in which the first column is Raman wave number, while the second column is Raman intensity. 
 %p is the polynomial prder. 
 %peak_ratio is the ratio of peaks. 
-%eps is the parameter ¦Å to terminate the iteration and users can specify this value.
+%eps is the parameter Â¦Ã… to terminate the iteration and users can specify this value.
 %b_path is the output path of the final fitted baseline.
 %z is the fitted baseline.
 addpath D:\Goldindec\ %change to the path of Goldindec
